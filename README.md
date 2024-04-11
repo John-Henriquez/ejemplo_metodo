@@ -1,2 +1,2 @@
-# ejemplo_metodo
-repo repaso git
+>[!NOTE]
+> Clase repaso MDD
